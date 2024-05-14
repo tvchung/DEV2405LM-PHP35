@@ -1,0 +1,24 @@
+Các cấu trúc điểu khiển: 3 loại cấu trúc
+1. Lựa chọn/ rẽ nhánh
+    1.1: if -> 4 dạng
+        a) if đơn
+
+        b) if đầy đủ 
+
+        c) if bậc thang
+
+        d) if lồng nhau
+
+    1.2: switch
+
+2. Lặp
+    2.1: for => 4 dạng
+    2.2: while
+    2.3: do..while 
+    2.4: foreach
+
+3. Lệnh nhảy 
+    break
+    continue
+    return
+
