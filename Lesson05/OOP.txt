@@ -1,0 +1,6 @@
+OOP - Lập trình hướng đối tượng
+- Tính chất:
+Kế thừa: inheritance
+Đa hình: polymophirms
+Trừu tượng: abstraction
+Đóng gối: Encapsolation
